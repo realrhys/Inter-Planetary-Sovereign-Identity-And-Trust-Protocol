@@ -1,1 +1,1 @@
-# Inter-Planetary-Sovereign-Identity-Network-Design
+# Inter-Planetary-Sovereign-Identity-Network-Protocol
