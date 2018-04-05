@@ -20,4 +20,10 @@ In order of appearance:
   * [Or Is This Happening?](https://www.itworldcanada.com/wp-content/uploads/2017/03/GettyImages-156200917-1-620x250.jpg)
   * [Crossroads](https://previews.123rf.com/images/cherezoff/cherezoff1407/cherezoff140700231/29762094-crossroads-road-sign-pointer-to-the-right-way-but-wrong-way-left-choice-concept.jpg)
   * [Sovrin](https://sovrin.org/)
-  * 
+  * [BC Government](http://www.timescolonist.com/business/b-c-experimenting-with-blockchain-to-store-and-share-crucial-data-1.23131666)
+  * [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy)
+  * [uPort](https://www.uport.me/)
+  * [Consensys](https://new.consensys.net/)
+  * [W3](https://www.w3.org/2017/05/vc-data-model/CGFR/2017-05-01/)
+  * [IPFS](https://ipfs.io/)
+  
