@@ -1,1 +1,1 @@
-# Inter-Planetary-Sovereign-Identity-Network-Protocol
+# Inter-Planetary-Sovereign-Identity-And-Trust-Protocol
