@@ -1,16 +1,45 @@
-# Inter-Planetary-Sovereign-Identity-And-Trust-Protocol
+# inter-planetary-sovereign-identity-and-trust-protocol
 
-## Links
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![License](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-  * [RelateID](http://relateid.com/)
-  * [Hackathon Challenge](https://www.hackworks.com/en/missionhackMTL)
-  * [This Hackathon Team](https://www.hackworks.com/en/missionhackMTL/teams/interplanetary.sovereign.identity..network.protocol)
-  * [This Repo]()
-  * [Sovrin](https://sovrin.org/)
-  * [BC Government](http://www.timescolonist.com/business/b-c-experimenting-with-blockchain-to-store-and-share-crucial-data-1.23131666)
-  * [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy)
-  * [uPort](https://www.uport.me/)
-  * [Consensys](https://new.consensys.net/)
-  * [W3](https://www.w3.org/2017/05/vc-data-model/CGFR/2017-05-01/)
-  * [IPFS](https://ipfs.io/)
-  
+> A shirt description
+
+TODO: Fill out this long description.
+
+## Table of Contents
+
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Background
+
+## Install
+
+```
+```
+
+## Usage
+
+```
+```
+
+## Maintainers
+
+[@realrhys](https://github.com/realrhys)
+
+## Contribute
+
+PRs accepted.
+
+Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+## License
+
+MIT © 2018 RelateID
