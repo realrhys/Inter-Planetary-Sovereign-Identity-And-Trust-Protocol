@@ -20,18 +20,17 @@ Note that this project is only focused on the mechanics of the protocol and are 
 ```
 
 ## Table of Contents
-
-    * [Our Truths](#our-truths)
-        * [Its Your Data](#its-your-data)
-        * [Trust Is Personal](#trust-is-personal)
-        * [Serverless](#serverless)
-        * [Conslusion](#conslusion)
-    * [Sovereign-Identity-Attestation-Network](#sovereign-identity-attestation-network)
-        * [uPort](#uport)
-        * [IPFS](#ipfs)
-    * [Maintainers](#maintainers)
-    * [Contribute](#contribute)
-    * [License](#license)
+   * [Our Truths](#our-truths)
+      * [Its Your Data](#its-your-data)
+      * [Trust Is Personal](#trust-is-personal)
+      * [Serverless](#serverless)
+      * [Conslusion](#conslusion)
+   * [Sovereign-Identity-Attestation-Network](#sovereign-identity-attestation-network)
+      * [uPort](#uport)
+      * [IPFS](#ipfs)
+   * [Maintainers](#maintainers)
+   * [Contribute](#contribute)
+   * [License](#license)
 
 
 ## Our Truths
