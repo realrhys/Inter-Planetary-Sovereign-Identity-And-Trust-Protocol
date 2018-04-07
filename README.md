@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol.png?columns=all)](https://waffle.io/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol?utm_source=badge)
 # inter-planetary-sovereign-identity-and-trust-protocol
 
 [![Join the chat at https://gitter.im/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol/Lobby](https://badges.gitter.im/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol/Lobby.svg)](https://gitter.im/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
