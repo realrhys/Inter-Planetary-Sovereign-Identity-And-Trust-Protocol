@@ -36,7 +36,7 @@ Note that this project is only focused on the mechanics of the protocol and are 
 ## Our Truths
 The following section details the three truths of the system design for our new internet. These truths are foundational and immutable. They will become the foundation on which we will be able to build an entirely open, and free internet for all. This internet will be built by the people and for the people. The three truths are:
   * You own your identity and data outright. All of it. Everything. You share what you want with who you want and how you want.
-  * How you trust is up to you. How you are trusted is up to others. Simple.
+  * How you trust is up to you. How you are trusted is up to others.
   * Complete decentralization. The network is the computer. 
 
 
@@ -70,14 +70,14 @@ With all that in mind, the transaction when buying my wine will be as follows:
 ### Serverless
 Our new network belongs to the people. It facilitates the social, governmental, governance, and commerce aspects of our lives. It ensures our data and identity sovereignty as well as providing a framework on which trust can be built. The final truth of our new internet is that it is serverless.
 
-Today, the Linux foundation is building the [IPFS](https://ipfs.io/) protocals and tooling in order to achieve a truely decentralized serverless possibility. This removes the need to have websites 'served' up by a single endpoint on the internet. Instead, websites, and the services they provide, would exist without the need to manage and service a datacenter. The potential for this technology is incredible.
+Today, the Linux foundation is building the [IPFS](https://ipfs.io/) protocols and tooling in order to achieve a truly decentralized serverless possibility. This removes the need to have websites 'served' up by a single endpoint on the internet. Instead, websites, and the services they provide, would exist without the need to manage and service a datacenter. The potential for this technology is incredible.
 
 ### Conclusion
-By agreeing to the three truths and cementing them as our driving principles, we are now able to build an applicative architecture on top. Fortunatly, many of the tools we need to build our network exist today. uPort, Sovrin, and others for identity attestations and management. IPFS for globally distributable applications. Etherium, IOTA, Hyperledger, Ark, and others for blockchains. Additionally, tooling such as compose and the accord-project for business transactions, and contractual attestations. A lot of what we need already exists.
+By agreeing to the three truths and cementing them as our driving principles, we are now able to build an applicative architecture on top. Many of the tools we need to build our network exist today. uPort, Sovrin, and others for identity attestations and management. IPFS for globally distributable applications. Etherium, IOTA, Hyperledger, Ark, and others for blockchains. Additionally, tooling such as compose and the accord-project for business transactions, and contractual attestations. A lot of what we need already exists.
 
-Additionally, standards are emerging that will facilitate the growth and dispersion that this system requires. One group of particular interts is the [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/).
+Additionally, standards are emerging that will facilitate the growth and dispersion that this system requires. One group of particular interest is the [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/).
 
-Finally, we are now seeing interest in the government and private sector in assessing and building these kinds of networks already. In some cases, these networks are inherintly poorly envisioned and short sighted. They are stuck in their ways, however, some of the governements and businesses are building ontop of the ideas and principles of Sovereign Identity. Examples such as: [British Colombia Canada](http://www.timescolonist.com/business/b-c-experimenting-with-blockchain-to-store-and-share-crucial-data-1.23131666), and [Estonia eResidency](https://e-resident.gov.ee/) give hope to a more open and transparent network forming. Commercially, a [big announcement from IBM](https://www.forbes.com/sites/rogeraitken/2018/04/05/ibm-blockchain-joins-sovrins-decentralized-digital-identity-network-to-stem-fraud/#772f61a115ed) shows forward thinking and strong leadership through its partnership with the amazing team found at [Sovrin](https://sovrin.org/) who have pioneered awareness and adoption of sovereign identity.
+Finally, we are now seeing interest in the government and private sector in assessing and building these kinds of networks already. In some cases, these networks are inherently poorly envisioned and short sighted. They are stuck in their ways, however, some of the governments and businesses are building on top of the ideas and principles of Sovereign Identity. Examples such as: [British Colombia Canada](http://www.timescolonist.com/business/b-c-experimenting-with-blockchain-to-store-and-share-crucial-data-1.23131666), and [Estonia eResidency](https://e-resident.gov.ee/) give hope to a more open and transparent network forming. Commercially, a [big announcement from IBM](https://www.forbes.com/sites/rogeraitken/2018/04/05/ibm-blockchain-joins-sovrins-decentralized-digital-identity-network-to-stem-fraud/#772f61a115ed) shows forward thinking and strong leadership through its partnership with the amazing team found at [Sovrin](https://sovrin.org/) who have pioneered awareness and adoption of sovereign identity.
 
 ## Sovereign-Identity-Attestation-Network
 Sovereign-Identity-Attestation-Network, SIAN, is the components, frameworks, and platforms that we build and build upon. SIAN is the implementation of our principles in order to create free, open, and usable software that we all benefit from. The software itself is considered to be the 'glue' that enables the wiring up of everything. End users will be provided with implementations for basic use cases on the new internet, while developers will be able to do what they do. The design of SIAN will ensure the ability to be 100% agnostic regardless of networks, tooling, or use case. Other sovereign identity networks will be encouraged to provide integration components that further encourage the decentralization away from any one thing including SIAN.
@@ -85,7 +85,7 @@ Sovereign-Identity-Attestation-Network, SIAN, is the components, frameworks, and
 What follows are the various components and an outline of the needs and use case they address.
 
 ### uPort
-Provides the user to manage their identity and then physically store them on the Etherium blockchain accessible through a public id. uPort provides this framework with a quick jump off as it has a great api and accommodates the zero-knowledge proofs we will be reliant upon. Of note, since uPort keeps your identity on Etherium, you will be free to to choose other 'trust providers' in place of uPort. Just point them to your wallet on Etherium et viola. uPort has been selected as the main focus for now as it adheres directly to all 3 truths of our network.
+Provides the user to manage their identity and then physically store them on the Ethereum blockchain accessible through a public id. uPort provides this framework with a quick jump off as it has a great api and accommodates the zero-knowledge proofs we will be reliant upon. Of note, since uPort keeps your identity on Ethereum, you will be free to to choose other 'trust providers' in place of uPort. Just point them to your wallet on Ethereum, et voilà. uPort has been selected as the main focus for now as it adheres directly to all 3 truths of our network.
 
 ### IPFS
 Provides us with an Inter Planetary file system for our inter planetary sovereign identity and trust protocol. IPFS provides us with a place to store our websites and data while ensuring distribution throughout the network.
@@ -98,7 +98,7 @@ Provides us with an Inter Planetary file system for our inter planetary sovereig
 
 PRs accepted.
 
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ## License
 
