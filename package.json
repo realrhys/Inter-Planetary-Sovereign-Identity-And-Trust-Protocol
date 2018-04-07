@@ -1,0 +1,62 @@
+{
+  "name": "sian",
+  "version": "0.7.1",
+  "description": "Library for integrating uPort into your app frontend",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol.git"
+  },
+  "keywords": [
+    "uport",
+    "identity",
+    "self-sovereign",
+    "ethereum",
+    "bitcoin",
+    "consensys",
+    "web3",
+    "ipfs",
+    "persona",
+    "sian",
+    "relateid"
+  ],
+  "author": "Rhys Parry <rhys@relateid.com> (http://relateid.com/)",
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Rhys Parry",
+      "email": "rhys@relateid.com",
+      "url": "http://relateid.com/"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol/issues"
+  },
+  "files": [
+    "dist",
+    "src",
+    "lib",
+    "utils"
+  ],
+  "homepage": "https://github.com/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol/blob/master/README.md",
+  "standard": {
+    "ignore": [
+      "dist/**"
+    ],
+    "globals": [
+      "describe",
+      "it",
+      "before",
+      "after",
+      "should"
+    ]
+  },
+  "dependencies": {
+    "uport-connect": "^0.7.1",
+    "web3": "0.19.0"
+  },
+  "devDependencies": {
+    "webpack": "2.3.3"
+  }
+}
