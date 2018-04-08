@@ -11,6 +11,7 @@ The following section describes the tool selected for the completion of the hack
   * [Beaker](#beaker)
   * [Hashbase](#hashbase)
   * [IPFS](#ipfs)
+  * [Web3](#web3)
 
 ## Git
 Every asset produced, except the video (if it gets done), will be found within this repository on [Github](https://github.com/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol). It is assumed that the reader is familiar with Git, and as such,this document does not provide the details.
