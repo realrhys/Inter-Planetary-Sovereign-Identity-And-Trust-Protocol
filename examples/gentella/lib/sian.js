@@ -14,6 +14,7 @@ const abi = [{"constant":false,"inputs":[{"name":"status","type":"string"}],"nam
 const StatusContract = web3.eth.contract(abi);
 const statusInstance = StatusContract.at('0x70A804cCE17149deB6030039798701a38667ca3B')
 
+/*
 // uPort connect
 const uportConnect = function () {
   web3.eth.getCoinbase((error, address) => {
@@ -22,3 +23,12 @@ const uportConnect = function () {
     
   })
 }
+*/
+
+connect.requestCredentials({
+  requested: ['name', 'phone', 'country'],
+  notifications: true // We want this if we want to recieve credentials
+})
+.then((credentials) => {
+  document.location = 'dashboard.html'
+})
