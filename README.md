@@ -7,7 +7,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![License](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+[![SIAN]](sian_logo.png)
 
 > This project was inspired by the [Mission Hack MTL](https://www.hackworks.com/en/missionhackMTL) challenge.
 
