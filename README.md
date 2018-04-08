@@ -47,8 +47,13 @@ Note that this project is only focused on the mechanics of the protocol and are 
       * [Serverless](#serverless)
       * [Conclusion](#conclusion)
    * [Sovereign-Identity-Attestation-Network](#sovereign-identity-attestation-network)
+      * [Git](#git)
+      * [Ethereum](#ethereum)
       * [uPort](#uport)
+      * [Beaker](#beaker)
+      * [Hashbase](#hashbase)
       * [IPFS](#ipfs)
+      * [Web3](#web3)
    * [Maintainers](#maintainers)
    * [Contribute](#contribute)
    * [License](#license)
@@ -106,11 +111,28 @@ Sovereign-Identity-Attestation-Network, SIAN, is the components, frameworks, and
 
 What follows are the various components and an outline of needs and use cases they address.
 
+### Git
+Every asset produced, except the video (if it gets done), will be found within this repository on [Github](https://github.com/realrhys/Inter-Planetary-Sovereign-Identity-And-Trust-Protocol). It is assumed that the reader is familiar with Git, and as such,this document does not provide the details.
+
+### Ethereum
+All of the identities created for the hackathon will be stored on an [Ethereum](https://www.ethereum.org/) testnet and have a public address. Here is mine: 0x0Aff7163B456f6579266D9E4D9AF17c44b98E0C3
+
+The advantage here is fairly straight forward. Its your data, you own it, on the blockchain. The tool used, detailed below, is simply a tool. Should at some point in the future,you wish to move to a different tool, you will be free to do so.
+
 ### uPort
-Provides the user to manage their identity and then physically store them on the Ethereum blockchain accessible through a public id. uPort provides this framework with a quick jump off as it has a great api and accommodates the zero-knowledge proofs we will be reliant upon. Of note, since uPort keeps your identity on Ethereum, you will be free to to choose other 'trust providers' in place of uPort. Just point them to your wallet on Ethereum, et voilà. uPort has been selected as the main focus for now as it adheres directly to all 3 truths of our network.
+[uPort](https://www.uport.me/) is a tool from [Consensys](https://new.consensys.net/) is a tool that creates and manages my identity on the blockchain. It handes access to my data as well as attestations of proof. To play with the software, you will first need to install the mobile application.
+
+### Beaker
+[Beaker](https://beakerbrowser.com/) is an open source browser built on top of [Electron](https://electronjs.org/). Beaker was chosen due to its many features such as peer-to-peer connectivity. Additionally, as the network grows, it is proposed that Beaker may be enhanced to support other usecases such as the potential for personal assisted AI integration.
+
+### Hashbase
+[Hashbase](https://electronjs.org/) is a service that allows for the online hosting of Beaker browser applications. We use Hashbase because, if others want to demo the efforts, they will be able to.
 
 ### IPFS
-Provides us with an Inter Planetary file system for our inter planetary sovereign identity and trust protocol. IPFS provides us with a place to store our websites and data while ensuring distribution throughout the network.
+[Interplanetary Filesystem](https://ipfs.io/), the inspiration for the naming of our challenge, is a peer-to-peer, decentralized hypermedia protocol for the web. To see more mature use cases for IPFS simply go to [DTube](https://d.tube/) and [Steemit](https://steemit.com/).
+
+### Web3
+[Web3](https://web3js.readthedocs.io/en/1.0/getting-started.html) is a javascript API for working within the Etherium ecosystem.
 
 ## Maintainers
 
