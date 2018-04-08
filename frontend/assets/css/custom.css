@@ -1,0 +1,15 @@
+.stat-icon i {
+	font-size: 18px !important;
+}
+
+.stat-digit {
+	font-size: 18px !important;
+}
+
+.btn-group-action {
+  margin-bottom: 15px;
+}
+
+.highligthed-card {
+	min-height: 182px;
+}
